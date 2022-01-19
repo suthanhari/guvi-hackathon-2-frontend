@@ -1,0 +1,34 @@
+.banner{
+    background: linear-gradient(to left,#000000 100%) !important;  
+}
+  
+div#scrollmenu {
+    background-color: white;
+    overflow: auto;
+    white-space: nowrap;
+  }
+  #scrollmenu::-webkit-scrollbar{
+    width: 2rem !important;
+     
+    }
+      
+
+  #scrollmenu::-webkit-scrollbar-thumb{
+      border-radius: 50px;
+     
+      background: linear-gradient(to left, #33ccff 0, #ff99cc 100%);
+  }
+  
+  div#scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  .select:link{
+      color: blue;
+  }
+  .select:visited{
+    color: green ;
+  }

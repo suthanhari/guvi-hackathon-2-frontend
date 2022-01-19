@@ -1,0 +1,18 @@
+.carousel-inner{
+    height: 450px;
+}
+.carousel-item .btn{
+    position: absolute !important;
+    top: 37% !important;
+    left: 80% !important;
+    transform: translate(-50%, -50%) !important;
+    -ms-transform: translate(-50%, -50%) !important;
+    
+}
+#parent{
+    position: relative !important;
+  }
+ 
+
+
+
